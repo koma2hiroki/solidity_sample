@@ -1,0 +1,7 @@
+{
+  "name": "solidity_sample",
+  "version": "0.0.1",
+  "dependencies": {
+    "truffle": "^4.0.4"
+  }
+}
