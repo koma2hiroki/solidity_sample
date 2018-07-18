@@ -6,3 +6,5 @@ cd solidity_sample
 npm install
 ./node_modules/.bin/truffle migrate
 ```
+
+use node.js
